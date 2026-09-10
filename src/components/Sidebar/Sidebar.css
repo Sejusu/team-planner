@@ -1,0 +1,22 @@
+aside {
+  width: 240px;
+  min-height: 100vh;
+  padding: 24px;
+  background: #ffffff;
+  border-right: 1px solid #e5e7eb;
+}
+
+aside h2 {
+  margin: 0 0 32px;
+}
+
+aside nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+aside a {
+  color: #4b5563;
+  text-decoration: none;
+}
